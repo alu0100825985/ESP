@@ -9,6 +9,8 @@ Project("{8637AB62-2FCF-11EE-6D65-5068A638B437}") = "ProyectoFinal", "Assembly-C
 EndProject
 Project("{8637AB62-2FCF-11EE-6D65-5068A638B437}") = "ProyectoFinal", "Assembly-UnityScript-firstpass.unityproj", "{2FB018B0-0C04-80E2-BAEA-F43D62723AB7}"
 EndProject
+Project("{8637AB62-2FCF-11EE-6D65-5068A638B437}") = "ProyectoFinal", "Assembly-UnityScript.unityproj", "{28DE6B21-E6B9-2F87-D565-3D281B21F51F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{2FB018B0-0C04-80E2-BAEA-F43D62723AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FB018B0-0C04-80E2-BAEA-F43D62723AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FB018B0-0C04-80E2-BAEA-F43D62723AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28DE6B21-E6B9-2F87-D565-3D281B21F51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DE6B21-E6B9-2F87-D565-3D281B21F51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DE6B21-E6B9-2F87-D565-3D281B21F51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DE6B21-E6B9-2F87-D565-3D281B21F51F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
