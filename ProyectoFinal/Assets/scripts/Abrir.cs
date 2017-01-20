@@ -1,12 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Herir : MonoBehaviour {
-
+public class Abrir : MonoBehaviour {
 	void OnTriggerEnter(Collider col){
 		if (col.gameObject.name == "Player"){
-			GameObject.FindWithTag("Player").GetComponent<BarraVida>().Damage();
-
+			if (Obtener.picked == 1) {
+				Destroy (gameObject);
+			}
 		}
 	}
 }
