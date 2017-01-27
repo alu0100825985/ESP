@@ -64,6 +64,9 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="Google.ProtocolBuffers">
+      <HintPath>Assets\Plugins\Google.ProtocolBuffers.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs" />
@@ -204,7 +207,27 @@
   <ItemGroup>
     <None Include="Assets\Day-Night Skyboxes\Textures\Readme for Assigning.txt" />
     <None Include="Assets\Day-Night Skyboxes\readme.txt" />
+    <None Include="Assets\GoogleVR\Demos\Environment\DemoEnvUnlitGrayscale.shader" />
+    <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoAmbientOcclusion.shader" />
+    <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoUnlitGrayscaleToColor.shader" />
+    <None Include="Assets\GoogleVR\Demos\Shaders\VideoDemo\VideoDemoInsideShader.shader" />
+    <None Include="Assets\GoogleVR\Demos\Shaders\VideoDemo\VideoDemoStereoShader.shader" />
+    <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
+    <None Include="Assets\GoogleVR\Legacy\Resources\SolidColor.shader" />
+    <None Include="Assets\GoogleVR\Legacy\Resources\UnlitTexture.shader" />
+    <None Include="Assets\GoogleVR\Shaders\GvrAdditiveOverlay.shader" />
+    <None Include="Assets\GoogleVR\Shaders\GvrReticleShader.shader" />
+    <None Include="Assets\GoogleVR\Shaders\GvrUIOverlay.shader" />
+    <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
+    <None Include="Assets\GoogleVR\Shaders\GvrUnityCompatibility.cginc" />
+    <None Include="Assets\GoogleVR\Shaders\GvrUnlitTextureOverlay.shader" />
+    <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlay.shader" />
+    <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlayColor.shader" />
     <None Include="Assets\Models\Key\readME keys.txt" />
+    <None Include="Assets\Plugins\Android\AndroidManifest-Cardboard.xml" />
+    <None Include="Assets\Plugins\Android\AndroidManifest-Daydream.xml" />
+    <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+    <None Include="Assets\Plugins\Android\proguard-gvr.txt" />
     <None Include="Assets\Puerta\Gate Details.txt" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />

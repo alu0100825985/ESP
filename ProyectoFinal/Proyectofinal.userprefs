@@ -1,10 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/BarraVida.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Ganar.cs">
     <Files>
+      <File FileName="Assets/scripts/Ganar.cs" Line="17" Column="25" />
       <File FileName="Assets/scripts/Screamer.cs" Line="43" Column="30" />
-      <File FileName="Assets/scripts/Llorar.cs" Line="13" Column="1" />
-      <File FileName="Assets/scripts/Herir.cs" Line="16" Column="73" />
+      <File FileName="Assets/scripts/Llorar.cs" Line="7" Column="1" />
+      <File FileName="Assets/scripts/Herir.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/BarraVida.cs" Line="13" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
