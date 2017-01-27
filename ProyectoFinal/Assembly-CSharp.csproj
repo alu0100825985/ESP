@@ -48,6 +48,7 @@
      <Compile Include="Assets\scripts\Abrir.cs" />
      <Compile Include="Assets\scripts\BarraVida.cs" />
      <Compile Include="Assets\scripts\Caida.cs" />
+     <Compile Include="Assets\scripts\Ganar.cs" />
      <Compile Include="Assets\scripts\Herir.cs" />
      <Compile Include="Assets\scripts\Llorar.cs" />
      <Compile Include="Assets\scripts\Obtener.cs" />
