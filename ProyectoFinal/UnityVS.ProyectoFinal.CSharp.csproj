@@ -64,9 +64,6 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
-    <Reference Include="Assembly-UnityScript-firstpass">
-      <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityVS.ProyectoFinal.CSharp.Plugins.csproj">
@@ -78,12 +75,11 @@
     <Compile Include="Assets\scripts\Abrir.cs" />
     <Compile Include="Assets\scripts\BarraVida.cs" />
     <Compile Include="Assets\scripts\Caida.cs" />
-    <Compile Include="Assets\scripts\Enemy.cs" />
-    <Compile Include="Assets\scripts\FollowPlayer.cs" />
     <Compile Include="Assets\scripts\Herir.cs" />
     <Compile Include="Assets\scripts\Llorar.cs" />
     <Compile Include="Assets\scripts\Obtener.cs" />
     <Compile Include="Assets\scripts\Pick.cs" />
+    <Compile Include="Assets\scripts\Screamer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Day-Night Skyboxes\Textures\Readme for Assigning.txt" />
